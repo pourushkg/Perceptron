@@ -13,4 +13,4 @@ my first perceptron project
 8. history 
 
 ## To check different version of the code 
-git checkout versioncode 
+-> git checkout versioncode 
