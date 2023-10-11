@@ -14,3 +14,12 @@ my first perceptron project
 
 ## To check different version of the code 
 -> git checkout versioncode 
+
+## To check back to the main 
+-> git checkout main 
+
+## To add url -
+[git handbook](https://github.com/git-guides)
+
+## Add image-
+![sample image](plots/and.png)
