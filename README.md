@@ -23,3 +23,19 @@ my first perceptron project
 
 ## Add image-
 ![sample image](plots/and.png)
+
+## To add python code 
+```python 
+def main(data,eta,epochs,modelName,plotName):
+    df=pd.DataFrame(data)
+    print(df)
+
+    x,y=prepare_data(df)
+
+    model = Perceptron(eta=ETA,epochs=EPOCHS)
+    model.fit(x,y)
+    _ = model.total_loss()
+
+    save_model(model,filename=modelName)
+    save_plot(df,plotName,model)
+```
