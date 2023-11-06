@@ -1,0 +1,25 @@
+and:
+  eta: 0.3
+  epochs: 10
+  modelName: and.model
+  plotName: and.png
+
+or:
+  eta: 0.3
+  epochs: 10
+  modelName: or.model
+  plotName: or.png
+
+xor:
+  eta: 0.3
+  epochs: 10
+  modelName: xor.model
+  plotName: xor.png
+
+nand:
+  eta: 0.3
+  epochs: 10
+  modelName: nand.model
+  plotName: nand.png
+
+
