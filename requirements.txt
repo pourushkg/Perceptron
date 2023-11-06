@@ -2,3 +2,6 @@ numpy
 matplotlib
 pandas 
 joblib
+tqdm
+ 
+PyYAML

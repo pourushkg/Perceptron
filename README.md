@@ -18,6 +18,12 @@ my first perceptron project
 ## To check back to the main 
 -> git checkout main 
 
+## To make directory 
+-> mkdir pouru
+
+## To make new file 
+-> touch src/utils/callbacks.py
+
 ## To add url -
 [git handbook](https://github.com/git-guides)
 
@@ -39,3 +45,13 @@ def main(data,eta,epochs,modelName,plotName):
     save_model(model,filename=modelName)
     save_plot(df,plotName,model)
 ```
+
+## Dataset
+x1 | x2 | y
+-|-|-
+0|0|0
+0|1|0
+1|0|0
+1|1|1
+
+
